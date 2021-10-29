@@ -1,1 +1,11 @@
+title: A mote of dust
+author: Joan Ginard
+email: jginardi@uoc.edu
 theme: jekyll-theme-cayman
+description: > # this means to ignore newlines until "baseurl:"
+  Site to upload projects related to courses. So it's only for educational purposes.
+# social links
+twitter_username: joanginard1 # DO NOT include the @ character, or else the build will fail!
+github_username:  JoanGinard # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
